@@ -1,1 +1,2 @@
 # Iris-Flower-prediction
+This project is a software application designed to predict the species of Iris flowers using various machine learning algorithms, including K-Nearest Neighbors (KNN), Naive Bayes, Linear Regression, and Decision Trees. It utilizes the Iris dataset to train and evaluate these models, providing accurate predictions based on sepal and petal measurements. The application features a user-friendly interface for inputting flower features and comparing model performance.
